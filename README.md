@@ -18,7 +18,7 @@ Generate Instagram captions and trending hashtags instantly using AI — complet
 
 ## 🌐 Live Demo
 
-Try the live app here: [Hugging Face Space Link](https://huggingface.co/spaces/YOUR-HF-USERNAME/Social-media-assistant-ai)
+Try the live app here: [Hugging Face Space Link](https://huggingface.co/spaces/Subata24/Social-media-assistant-ai)
 
 ---
 
